@@ -22,15 +22,15 @@ Biblioteka umożliwiająca zapisywanie ustrukturyzowanych danych w oparciu o mec
 
 Instalacja za pomocą Composera:
 ```php
-composer require sinfonie/wp_options_item
+composer require sinfonie/wordpress_options_item
 ```
 
 Instalacja za pomocą git poprzez https:
 ```php
-git clone https://github.com/sinfonie/wp_options_item.git
+git clone https://github.com/sinfonie/wordpress_options_item.git
 ```
 Pobierz w formie .zip:
-https://github.com/sinfonie/wp_options_item/archive/master.zip
+https://github.com/sinfonie/wordpress_options_item/archive/master.zip
 
 ## Konfiguracja
 

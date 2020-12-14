@@ -22,15 +22,15 @@ Library that allows you to save structured data based on the WordPress options s
 
 Install via composer:
 ```php
-composer require sinfonie/wp_options_item
+composer require sinfonie/wordpress_options_item
 ```
 
 Install via git over https:
 ```php
-git clone https://github.com/sinfonie/wp_options_item.git
+git clone https://github.com/sinfonie/wordpress_options_item.git
 ```
 manual download:
-https://github.com/sinfonie/wp_options_item/archive/master.zip
+https://github.com/sinfonie/wordpress_options_item/archive/master.zip
 
 ## Configuration
 
