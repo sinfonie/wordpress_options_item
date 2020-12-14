@@ -1,0 +1,27 @@
+{
+  "name": "sinfonie/wp_options_item",
+  "type": "library",
+  "license": "none",
+  "description": "",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Maciej Rumiński",
+      "homepage": "https://sinfonie.pl",
+      "email": "ruminski.maciej@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "support": {
+    "issues": "https://github.com/sinfonie/wp_options_item/issues"
+  },
+  "autoload": {
+    "classmap": [
+      "wpoiLibs/src/"
+    ]
+  }
+}
+
