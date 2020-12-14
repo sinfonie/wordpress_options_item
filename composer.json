@@ -20,7 +20,8 @@
   },
   "autoload": {
     "classmap": [
-      "wpoiLibs/src/"
+      "wpoiLibs/src/",
+      "wpoiLibs/items/"
     ]
   }
 }
