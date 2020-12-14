@@ -36,3 +36,7 @@ https://github.com/sinfonie/wordpress_options_item/archive/master.zip
 
 Proszę pamiętać o określeniu odpowiedniej ścieżki dla biblioteki w twoim projekcie.
 
+Poniżej znajdziesz linki do prostej implementacji:
+- [exampleGroups](wpoiLibs/items/exampleGroups.php)
+- [exampleMember](wpoiLibs/items/exampleMembers.php)
+- [ClientCode](wpoiLibs/samples/sample_call.php)
