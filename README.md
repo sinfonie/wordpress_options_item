@@ -36,5 +36,8 @@ https://github.com/sinfonie/wordpress_options_item/archive/master.zip
 
 Please remember to specify the appropriate path for the library in your project.
 
-Implementation details can be found at the link below:
+You can find simple implementaion in examples below
 
+[exampleGroups](wpoiLibs/items/exampleGroups.php)
+[exampleMember](wpoiLibs/items/exampleMembers.php)
+[ClientCode](wpoiLibs/samples/sample_call.php)

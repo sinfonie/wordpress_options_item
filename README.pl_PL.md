@@ -36,4 +36,3 @@ https://github.com/sinfonie/wordpress_options_item/archive/master.zip
 
 Proszę pamiętać o określeniu odpowiedniej ścieżki dla biblioteki w twoim projekcie.
 
-Szczegóły implementacji znajdziesz pod poniższym linkiem:
