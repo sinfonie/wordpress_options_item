@@ -2,7 +2,7 @@
   "name": "sinfonie/wordpress_options_item",
   "type": "library",
   "license": "none",
-  "description": "",
+  "description": "Library that allows you to save structured data based on the WordPress options saving mechanism.",
   "version": "1.0.0",
   "minimum-stability": "dev",
   "authors": [
