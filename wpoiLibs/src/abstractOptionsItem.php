@@ -1,7 +1,7 @@
 <?php
 
 /**
- * multiArrayViewerCreator
+ * WordPress Options Item
  * @author  Maciej Rumiński
  * @version 1.0.0
  */
@@ -9,6 +9,7 @@
 namespace wpoiLibs\src;
 
 use wpoiLibs\src\helpers\helper;
+use wpoiLibs\settings\settings;
 
 abstract class abstractOptionsItem
 {
@@ -197,7 +198,7 @@ abstract class abstractOptionsItem
 
   public function getInstancesToDelete($reference)
   {
-    $objectClass = '\wpoiLibs\items\\' . helper::camelize($reference['referrer']);
+    $objectClass = settings::getItemClassPath() . helper::camelize($reference['referrer']);
     $instance = new $objectClass;
     $entries = $instance->getOption();
     $refered_field = $reference['refered_field'];
